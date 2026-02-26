@@ -44,17 +44,7 @@ A powerful **offline-first desktop application** that transforms your local Olla
 
 ---
 
-## 🖼️ Screenshots
 
-*(Placeholders – replace with actual screenshots)*
-
-| Chat Interface | Vision Analysis | System Prompt Editor |
-|---------------|----------------|---------------------|
-| ![Chat](screenshots/chat.png) | ![Vision](screenshots/vision.png) | ![Prompt](screenshots/prompt.png) |
-
-| Archive Browser | Settings Panel |
-|----------------|---------------|
-| ![Archive](screenshots/archive.png) | ![Settings](screenshots/settings.png) |
 
 ---
 
