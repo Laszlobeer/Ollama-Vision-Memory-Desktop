@@ -2,6 +2,9 @@
 
 > **Local AI Assistant with Persistent Memory, Computer Vision & Customizable Prompts**
 
+![logo](logo.png)
+
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt-5.15+-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 [![Ollama](https://img.shields.io/badge/Ollama-Compatible-orange.svg)](https://ollama.com/)
