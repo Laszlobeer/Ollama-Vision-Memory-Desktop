@@ -230,23 +230,7 @@ pip install pdfplumber
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Here's how to help:
-
-1. **Fork** the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Open a **Pull Request**
-
-### Guidelines
-- Follow PEP 8 style guidelines
-- Add docstrings to new functions/classes
-- Test with at least one Ollama model before submitting
-- Update documentation for user-facing changes
-
----
 
 ## 📄 License
 
