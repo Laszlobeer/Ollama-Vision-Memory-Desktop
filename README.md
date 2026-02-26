@@ -154,11 +154,10 @@ python main.py
 
 ```
 Ollama-Vision-Memory-Desktop/
-├── deepseek_python_20260226_fdd99b.py  # Main application file
+├── main.py  # Main application file
 ├── requirements.txt                      # Python dependencies
 ├── README.md                            # This file
 ├── LICENSE                              # MIT License
-├── screenshots/                         # UI screenshots (optional)
 │
 └── mind_archive/                        # Auto-generated data directory
     ├── chat/           # Daily JSON chat logs
